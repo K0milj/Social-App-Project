@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+$main-color: rgb(50, 52, 206);
+$hover-color: rgb(62, 66, 255);
+
+body{
+    background-color: rgb(243, 243, 243);
+}
+
+hr{
+    opacity: 0.5;
+}
